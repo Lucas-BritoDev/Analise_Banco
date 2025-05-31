@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "analise-banco"
+version = "0.1.0"
+description = ""
+authors = ["Lucas-Brito-Dev <lucasbrito_dev@outlook.com.br>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^2.2.3"
+numpy = "^2.2.5"
+streamlit = "^1.45.0"
+plotly = "^6.0.1"
+statsmodels = "^0.14.4"
+openpyxl = "^3.1.5"
+xlsxwriter = "^3.2.3"
+seaborn = "^0.13.2"
+scikit-learn = "^1.6.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
