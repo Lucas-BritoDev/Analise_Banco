@@ -57,7 +57,4 @@ Após executar o comando `streamlit run app.py`:
 * Interaja com os gráficos (passando o mouse sobre os dados, clicando em legendas para filtrar, etc.).
 * Na seção "Coleta de Dados", há um botão para baixar os dados simulados em formato CSV.
 
-## 👨‍💻 Autor
 
-* **Lucas Brito**
-* **LinkedIn:** [https://www.linkedin.com/in/lucasbrito-dev/](https://www.linkedin.com/in/lucasbrito-dev/)
